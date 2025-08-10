@@ -2,5 +2,6 @@
   { "id": "mrr",      "label": "MRR",           "value": 127500, "unit": "$", "changePct": 3.2 },
   { "id": "churn",    "label": "Churn",         "value": 1.8,    "unit": "%", "changePct": -0.3 },
   { "id": "arpu",     "label": "ARPU",          "value": 245,    "unit": "$", "changePct": 1.1 },
-  { "id": "customers","label": "Customers",     "value": 842,    "unit": "",  "changePct": 2.4 }
+  { "id": "customers","label": "Customers",     "value": 842,    "unit": "",  "changePct": 2.4 },
+  { "id": "activation rate", "label": "Activation Rate", "value": 74.2, "unit": "%", "changePct": 0.6 }
 ]
